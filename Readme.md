@@ -20,6 +20,9 @@ This project simulates disk scheduling algorithms and visualizes disk head movem
 - **Repository Name:** AdvancedDiskSchedulingSimulator
 - **GitHub Link:** [Insert Repository URL Here]
 
+## User Input Module Details
+The `input_module.py` file handles the collection of disk scheduling requests and the initial head position from the user. It implements input validation to ensure that only non-negative integers are accepted. The module has been implemented and tested successfully; it converts user input into a list of integers and returns both the disk requests and the initial head position.
+
 ---
 
 *This README will be updated iteratively as the project develops.*
