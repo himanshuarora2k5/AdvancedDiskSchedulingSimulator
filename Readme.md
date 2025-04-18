@@ -38,7 +38,7 @@ A Python-based GUI application using Tkinter and Matplotlib to simulate and visu
 
 1.  **Run the main GUI script:**
     ```bash
-    python gui.py
+    python main.py
     ```
 
 2.  **Enter Disk Requests:**
