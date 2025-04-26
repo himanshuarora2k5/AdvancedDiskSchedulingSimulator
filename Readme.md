@@ -73,7 +73,10 @@ A Python-based GUI application using Tkinter and Matplotlib to simulate and visu
 
 ## Screenshots
 
-*(Suggest adding screenshots here to show the main GUI window and the visualization window)*
+![image](https://github.com/user-attachments/assets/c21a4a59-df0b-408a-adaa-c33ce54bd2ab)
+![image](https://github.com/user-attachments/assets/3a2b35c5-654a-46b4-85d1-13793e2c717e)
+![image](https://github.com/user-attachments/assets/552c9551-d940-451e-ab57-d0ed549f874c)
+![image](https://github.com/user-attachments/assets/0eeb8d00-2ec4-4434-92a2-68ae2bdcd335)
 
 ## License
 
