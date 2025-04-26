@@ -24,10 +24,9 @@ A Python-based GUI application using Tkinter and Matplotlib to simulate and visu
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/himanshuarora2k5/AdvancedDiskSchedulingSimulator
     cd disk-scheduling-simulator
     ```
-    *(Replace `<repository_url>` with the actual URL of your GitHub repository)*
 
 2.  **Install the required libraries:**
     ```bash
@@ -78,7 +77,7 @@ A Python-based GUI application using Tkinter and Matplotlib to simulate and visu
 
 ## License
 
-*(Choose and add a license, e.g., MIT, Apache 2.0, GPLv3)*
+*N/A*
 
 ## Acknowledgements
 
